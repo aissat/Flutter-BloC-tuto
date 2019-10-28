@@ -1,6 +1,20 @@
-# bloc_counter
+# BloC Tuto
 
 A new Flutter project.
+
+## Screenshots
+
+<td style="text-align: center">
+<img alt="home" src="https://github.com/aissat/Flutter-BloC-tuto/blob/master/screenshots/home.png?raw=true" width="200" />
+</td>
+
+<td style="text-align: center">
+<img alt="counter" src="https://github.com/aissat/Flutter-BloC-tuto/blob/master/screenshots/counter.png?raw=true" width="200" />
+</td>
+<td style="text-align: center">
+<img alt="timer" src="https://github.com/aissat/Flutter-BloC-tuto/blob/master/screenshots/timer.png?raw=true" width="200" />
+</td>
+
 
 ## Getting Started
 
